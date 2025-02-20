@@ -1,3 +1,8 @@
+
+// Import necessary Java utilities
+import java.util.Iterator;
+import java.io.IOException;
+
 // Class to test our CustomLinkedList
 public class Main {
   public static void main(String[] args) {
